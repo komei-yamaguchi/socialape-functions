@@ -1,0 +1,7 @@
+{
+  "prettier.singleQuote": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "html.format.endWithNewline": true,
+  "editor.formatOnType": true
+}
